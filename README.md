@@ -1,7 +1,7 @@
 # RoutineAutomater
 Build desirable habits by creating and tracking daily routines
 
-RoutineAutomater will allow the user to create a routine list of tasks and track their completion daily. Suitable for all ages.
+RoutineAutomater is an Android App that will allow the user to create a routine list of tasks and track their completion daily. Suitable for all ages.
 
 USE CASE: Andrew is 6 years old and would like to plan a Bedtime Routine together with his mom. They would like to create individual tasks such as brushing teeth, changing into pjs, etc and check them off one by one until the list is complete. This will enable Andrew to remain on task and complete his pre-bed tasks without constant badgering from his mom.
 
